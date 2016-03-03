@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.apache.hadoop.eclipse.view.servers;
+package org.apache.hadoop.eclipse.view.servers; 
 
 import java.util.Collection;
 
