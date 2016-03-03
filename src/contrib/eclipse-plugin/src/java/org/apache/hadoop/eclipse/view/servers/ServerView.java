@@ -18,7 +18,7 @@
 
 package org.apache.hadoop.eclipse.view.servers; 
 
-import java.util.Collection;
+import java.util.Collection; 
 
 import org.apache.hadoop.eclipse.ImageLibrary;
 import org.apache.hadoop.eclipse.actions.EditLocationAction;
